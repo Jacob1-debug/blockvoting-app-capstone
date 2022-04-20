@@ -100,3 +100,9 @@ On Windows, if you're seeing an error containing `EPERM` it may be related to sp
   [NEAR Wallet]: https://wallet.testnet.near.org/
   [near-cli]: https://github.com/near/near-cli
   [gh-pages]: https://github.com/tschaub/gh-pages
+
+
+
+===============
+Expected Completed product would look like this:
+![image](https://user-images.githubusercontent.com/70254498/164295785-838e7ad0-0a83-4797-a32e-1f0e579f28db.png)
