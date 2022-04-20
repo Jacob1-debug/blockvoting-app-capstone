@@ -106,3 +106,8 @@ On Windows, if you're seeing an error containing `EPERM` it may be related to sp
 ===============
 Expected Completed product would look like this:
 ![image](https://user-images.githubusercontent.com/70254498/164295785-838e7ad0-0a83-4797-a32e-1f0e579f28db.png)
+
+![image](https://user-images.githubusercontent.com/70254498/164337539-439694ec-7216-42cf-b984-8be49e735917.png)
+
+![image](https://user-images.githubusercontent.com/70254498/164337604-4660a3c4-53d3-414d-915c-2e53ed508ca4.png)
+
