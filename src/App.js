@@ -47,13 +47,13 @@ export default function App() {
       </Navbar.Collapse>
     </Container>
   </Navbar>
-  <div>
+  {/* <div>
             {(() => {
                 switch('/') {
                   case changeCandidates={changeCandidatesFunction}:
                 }
             })()}
-        </div>
+        </div> */}
       {/* <Switch>
          <Route exact path='/'>
           <Home changeCandidates={changeCandidatesFunction} />
