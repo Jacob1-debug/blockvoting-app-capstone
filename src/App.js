@@ -3,9 +3,8 @@ import React from "react";
 import { login, logout } from "./utils";
 import "./global.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route, Link,Routes } from "react-router-dom";
 import { Container, Navbar, Nav, NavDropdown } from "react-bootstrap";
-
 
 // components
 import Home from "./Components/Home";
@@ -48,6 +47,13 @@ export default function App() {
       </Navbar.Collapse>
     </Container>
   </Navbar>
+  <div>
+            {(() => {
+                switch('/') {
+                  case changeCandidates={changeCandidatesFunction}:
+                }
+            })()}
+        </div>
       {/* <Switch>
          <Route exact path='/'>
           <Home changeCandidates={changeCandidatesFunction} />
@@ -62,3 +68,4 @@ export default function App() {
     </Router>
   );
 }
+
