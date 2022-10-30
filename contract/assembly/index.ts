@@ -1,6 +1,5 @@
 
-
-import {  logging, PersistentMap} from 'near-sdk-as'
+import { logging, PersistentMap} from 'near-sdk-as'
 
 
 const CandidateURL=new PersistentMap<string,string>("CandidateURL");
@@ -8,10 +7,6 @@ const CandidatePair=new PersistentMap<string,string[]>("Candidate Pair");
 const PromptArray= new PersistentMap<string,string[]>("array of prompts ");
 const VoteArray=new PersistentMap<string,i32[]>("stores votes ");
 const userParticipation = new PersistentMap<string,string[]>('user Participation Record')
-
-
-
-
 
 
 // View Methods
